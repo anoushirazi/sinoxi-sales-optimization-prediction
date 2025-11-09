@@ -1,4 +1,4 @@
-# Sinoxin-Sales-Optimization-Prediction 📈💼
+# sinoxi-sales-optimization-prediction 📈💼
 ## Overview
 
 Welcome to **Sinoxin-Sales-Optimization-Prediction**, a data analysis project designed to unlock the power of sales data for smarter business decisions. Using Python, I’ve performed in-depth analysis, built predictive models, and delivered actionable insights to optimize profitability, inventory, and customer strategies. This project showcases my skills in data analysis, machine learning, and business intelligence—perfect for driving real-world impact.
